@@ -9,4 +9,4 @@ COPY . /app
 
 
 # Run Python script when the container launches
-CMD ["python3", "hello_name.py"]
+CMD ["python", "hello_name.py"]

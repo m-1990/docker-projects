@@ -1,5 +1,6 @@
 try:
     username =input("Enter your name: ")
+    print("Hello : " + username + "! Have a great day! ")
 except EOFError:   
     name = "mary"
-print("Hello : " + username + "! Have a great day! ")
+print("No input recieved! ")

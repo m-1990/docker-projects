@@ -2,8 +2,8 @@
 This is my first python file to learn docker and containers. I kept it very simple with minimal set of instructions.
 
 
-`hello_name.py` code file is very simple.<br>
-It takes your name as an input and print out a Hello statement with your name.
+`hello_name.py` file is a very simple python file.<br>
+It takes your name as an input and print out a Hello statement with your name. I have used ```try-except``` to handle the exception.
 
 The content of the DockerFile is as follows. 
 - The **FROM** field have information on what image is to be used. 
